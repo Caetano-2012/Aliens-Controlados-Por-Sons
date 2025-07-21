@@ -1,16 +1,16 @@
 body {
     text-align: center;
     font-family: 'Roboto', sans-serif;
-    background-color: lightgrey;
+    background: rgb(89, 146, 179) !important;
 }
 
 .header_div {
-    background-color: whitesmoke;
-    color: black;
+    background: rgb(35, 115, 139);
+    color: whitesmoke;
 }
 .header_div p {
     font-family: 'Roboto', sans-serif;
-    color: red;
+    color: whitesmoke;
     letter-spacing: 2px;
     font-size: 12px;
     font-weight: bold;
@@ -24,14 +24,13 @@ body {
 }
 .copy_right_footer {
     position: fixed;
-    color: black;
+    color: rgb(255, 255, 255);
     bottom: 0;
     width: 100%;
     font-size: 18px;
-    background: whitesmoke;
+    background-color: rgb(35, 115, 139);
     line-height: 3;
     text-align: left;
     text-shadow: 5px 5px 5px black ;
     padding-left: 10px;
-
 }
